@@ -1,0 +1,12 @@
+{
+  "name": "married-triplets-alpha-dad",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve dist",
+    "deploy": "vercel deploy dist --prod"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
